@@ -37,5 +37,5 @@ def filt_clust_rep_prot(cluster_file_path):
                     id_prots.append(prot.split('>')[1])
             new_dict[new_key]=id_prots
     return new_dict
-  if __name__ == '__main__':
+if __name__ == '__main__':
     dic=filt_clust_rep_prot('cd-hit-out.clstr')
