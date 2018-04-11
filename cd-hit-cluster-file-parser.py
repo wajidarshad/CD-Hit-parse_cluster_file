@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 09 16:55:17 2018
+
+@author: Wajid Abbasi
+Contact: wajidarshad@gmail.com
+"""
+ 
+
 import os, itertools
 def read_clstr(file_path):
 
