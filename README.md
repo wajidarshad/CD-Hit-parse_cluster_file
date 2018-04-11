@@ -4,8 +4,8 @@ CD-HIT clusters proteins into clusters that meet a user-defined similarity thres
 sequence identity. Each cluster has one representative sequence. The input is a protein dataset in
 fasta format and the output are two files: a fasta file of representative sequences and a text file of list
 of clusters.
-# What this code does?
-This code takes a cluster file(.clstr) as input and returns a dictionary with the representaive sequence id as key and all the clustered sequence ids as values in the form of list.
+# What does this code do?
+This code (cd-hit-cluster-file-parser.py) takes a cluster file(.clstr) as input and returns a dictionary with the representaive sequence id as key and all the clustered sequence ids as values in the form of list.
 # Example
 Input: cluster file containing following clusters.
 >Cluster 0
