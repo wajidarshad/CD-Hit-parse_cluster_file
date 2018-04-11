@@ -28,7 +28,7 @@ def read_clstr(file_path):
 	return cluster_dic
 def filt_clust_rep_prot(cluster_file_path):
     """
-    This fcuntion filter each cluster w.r.t representative protein
+    This function filters each cluster w.r.t representative protein
     and output a new  dictionary with key as representative protein
     and value as [] or clusterd proteins list.
     """
