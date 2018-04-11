@@ -7,7 +7,7 @@ of clusters.
 # What this code does?
 This code takes a cluster file(.clstr) as input and returns a dictionary with the representaive sequence id as key and all the clustered sequence ids as values in the form of list.
 # Example
-Input: cluster file containing following cluter.
+Input: cluster file containing following clusters.
 >Cluster 0
 0	26926aa, >01787|01787_1|NP_003310.3|Titin... at 86.16%
 1	33423aa, >01787|01787_2|NP_596869.3|Titin... *
